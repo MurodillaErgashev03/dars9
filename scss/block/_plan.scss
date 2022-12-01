@@ -1,0 +1,150 @@
+.plan__container {
+    margin-top: 30px;
+    display: flex;
+
+}
+
+.plan__left-top {
+    max-width: 310px;
+    height: 774px;
+    background: #FBFBFB;
+}
+
+.plan__left-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+    color: #3D3D3D;
+    margin-left: 18px;
+    padding-top: 14px;
+}
+
+.plan__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+    line-height: 40px;
+}
+
+.plan__list {
+    padding: 0 30px;
+    margin-top: 7px;
+}
+
+.plan__item:hover .plan__span {
+    color: #46A358;
+
+}
+
+.plan__item:hover {
+    color: #46A358;
+}
+
+.plan__litle-box {
+    max-width: 226px;
+    height: 133px;
+    margin-left: 18px;
+    margin-top: 36px;
+}
+
+.plan__litle {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+    color: #3D3D3D;
+    margin-bottom: 20px;
+
+}
+
+.plan__line-hero {
+    display: flex;
+    align-items: center;
+}
+
+.plan__line-box {
+    width: 30px;
+    height: 28px;
+    background: #46A358;
+    border: 3px solid #FFFFFF;
+    border-radius: 50%;
+}
+
+.plan__line {
+    width: 150px;
+    border-bottom: 6px solid #46A358;
+}
+
+.plan__line-1 {
+    width: 36px;
+    border-bottom: 6px solid rgba(70, 163, 88, 0.2);
+}
+
+.plan__little-text {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    color: #3D3D3D;
+    margin-top: 15px;
+}
+
+.plan__little-span {
+    color: #46A358;
+}
+
+.plan__little-button {
+    width: 90px;
+    height: 35px;
+    background: #46A358;
+    border-radius: 6px;
+    border: none;
+    padding: 8px 26px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-top: 16px;
+}
+
+.plan__size-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+    color: #3D3D3D;
+    margin-top: 46px;
+    margin-left: 6px;
+}
+
+.plan__left-bottom {
+    width: 370px;
+    height: 470px;
+    margin-left: -41px;
+}
+
+.plan__right-top {
+    width: 838px;
+    height: 23px;
+  
+}
+
+.plan__right-block {
+    margin-left: 20px;
+}
+
+.plan__right-list {
+    display: flex;
+    gap: 40px;
+}
+
+.plan__right-item-1{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+.plan__right-item-1:hover {
+    color: #46A358;
+    padding-bottom: 7px;
+    border-bottom: 2px solid #46A358;
+}
+
